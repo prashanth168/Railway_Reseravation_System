@@ -1,0 +1,10 @@
+{   
+    "java.project.sourcePaths": ["src/main/java"],
+    "java.project.outputPath": "target/classes",
+    "java.project.referencedLibraries": [
+        "lib/itextpdf-5.5.13.3.jar",
+        "lib/javax.mail-1.6.2.jar", 
+        "lib/mysql-connector-j-9.3.0.jar"
+    ],
+    "java.project.outputPath": "bin"
+}

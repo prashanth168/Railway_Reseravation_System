@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.railway.ui.Main",
+            "projectName": "RailwayReservationSystem_39107ab2"
+        },
+    ]
+}
