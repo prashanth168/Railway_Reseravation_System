@@ -3,9 +3,6 @@
 
 A complete Java-based Railway Reservation System with MySQL database, Swing GUI, and full booking workflow.
 
-![Admin Dashboard Screenshot](screenshots/admin-dashboard.png) 
-*Example: Admin Dashboard Interface*
-
 ## Features
 
 ✔ **User Management**  
